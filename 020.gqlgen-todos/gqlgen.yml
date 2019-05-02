@@ -12,3 +12,6 @@ model:
 resolver:
   filename: resolver.go
   type: Resolver
+models:
+  Todo:
+    model: github.com/mgleon08/gqlgen-todos.Todo
